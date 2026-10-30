@@ -12,27 +12,28 @@ Use discount code **VGYCKXLTY9** to get **15% off** on For Traders challenges an
 
 ## Latest Deal
 
-### For Traders - 25% Off Every Challenge This Halloween
+### For Traders - Halloween $6K Forex Fast challenge for only $9.99
 
-**Published:** 2026-10-26  
+**Published:** 2026-10-30  
 **Offer ends:** Limited time  
-**Discount:** 25% off  
-**Scope:** Any Challenge, Any Model, Any Account Size, Forex, Futures, Crypto  
+**Discount:** 79.6% off  
+**Scope:** Forex Fast, 1-Step, $6K Account, Metatrader 5  
 
 **Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
 
-**Deal page:** https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/
+**Deal page:** https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
 
 ---
 
 ## Deal History
 
-Total deals tracked: **54**
+Total deals tracked: **55**
 
-### 2026 (40 deals)
+### 2026 (41 deals)
 
 | Deal Date | Title | Discount | Expires | Deal Link |
 |---|---|---|---|---|
+| 2026-10-30 | Halloween $6K Forex Fast challenge for only $9.99 | 79.6% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) |
 | 2026-10-26 | 25% Off Every Challenge This Halloween | 25% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) |
 | 2026-10-15 | $99 Entry Fee For $50K Futures Fast Pro Challenge | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) |
 | 2026-10-15 | 50% Off Instant Master Account Purchases | 50% off | Limited time | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) |
