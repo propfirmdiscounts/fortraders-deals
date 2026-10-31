@@ -17,6 +17,7 @@ As of 2026-10-30, the verified For Traders discount code is **VGYCKXLTY9** — u
 - Published: 2026-10-30
 - Offer ends: Limited time
 - Offer: 79.6% off
+- Event: Halloween
 - Scope: Forex Fast, 1-Step, $6K Account, Metatrader 5
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
@@ -45,8 +46,8 @@ Total deals tracked: **55**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-30 | Halloween $6K Forex Fast challenge for only $9.99 | 79.6% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) |
-| 2026-10-26 | 25% Off Every Challenge This Halloween | 25% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) |
+| 2026-10-30 | Halloween $6K Forex Fast challenge for only $9.99 | 79.6% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) |
+| 2026-10-26 | 25% Off Every Challenge This Halloween | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) |
 | 2026-10-15 | $99 Entry Fee For $50K Futures Fast Pro Challenge | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) |
 | 2026-10-15 | 50% Off Instant Master Account Purchases | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) |
 | 2026-10-05 | $6K Fast Crypto Entry Dropped to $9.99 | Only $9.99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) |
@@ -55,7 +56,7 @@ Total deals tracked: **55**
 | 2026-08-28 | Access a $6K Challenge for $9.99 (1,000 Accounts Only) | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-challenge-discount/) |
 | 2026-08-07 | $6K Fast Challenge: $9.99 Upfront Cost | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-fast-challenge-999-promo/) |
 | 2026-07-15 | 25% Off Evaluation Accounts Initial Entry Cost Breakdown | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-25-percent-off-summer-promotion/) |
-| 2026-07-01 | 30% Off All Accounts and Conditional Second Evaluation | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) |
+| 2026-07-01 | 30% Off All Accounts and Conditional Second Evaluation | 30% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-independence-day/) |
 | 2026-05-29 | 30% Off All Evaluation Accounts Purchase Cost | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-percent-off-challenges-flash-sale/) |
 | 2026-05-25 | 25% Off Entry Cost And Bonus Evaluation | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-25-off-conditional-second-account/) |
 | 2026-05-22 | 50% Off Crypto Evaluation Accounts for New Customers | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-crypto-accounts/) |
@@ -69,7 +70,7 @@ Total deals tracked: **55**
 | 2026-04-13 | $6K Evaluation Accounts for $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-9-99-deal/) |
 | 2026-04-10 | $6,000 One-Step Evaluation For $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-6000-one-step-9-99/) |
 | 2026-04-09 | 50% Reduction On $50K Futures Fast Pro Entry For $99 | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-discount-50k-futures-fast-pro/) |
-| 2026-04-01 | 30% Price Reduction and $100K Evaluation Account Draw | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-discount-giveaway-easter/) |
+| 2026-04-01 | 30% Price Reduction and $100K Evaluation Account Draw | 30% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-discount-giveaway-easter/) |
 | 2026-03-23 | 20% Off and Buy 1 Get 1 Free Offer on Evaluation Accounts | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-20-discount-bogo-offer/) |
 | 2026-03-20 | $3K Instant Account For $9.99 (1,000 Spots) | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-3k-instant-account-9-99/) |
 | 2026-03-17 | 30% Off Futures Challenges Limited Availability | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-30-off-futures-evaluations/) |
@@ -85,19 +86,19 @@ Total deals tracked: **55**
 | 2026-01-19 | Martin Luther King Day: 25% Off $100K Challenges + Conditional Free Account | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-martin-luther-king-day-25-off-100k-challenges/) |
 | 2026-01-14 | Limited Offer: 40% Off Challenge Fees | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-40-percent-off-limited-offer/) |
 | 2026-01-08 | $100K Challenge Offer: 20% Off + Free Account on Payout | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-100k-challenge-promo/) |
-| 2026-01-02 | New Year Offer: $6K One-Step Challenge for $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-new-year-6k-challenge-deal/) |
+| 2026-01-02 | New Year Offer: $6K One-Step Challenge for $9.99 | Only $9.99 | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-new-year-6k-challenge-deal/) |
 
 ### 2025 (14 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-08 | Christmas Deal: 25% OFF All Trading Accounts | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-christmas-25-off/) |
+| 2025-12-08 | Christmas Deal: 25% OFF All Trading Accounts | 25% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-christmas-25-off/) |
 | 2025-12-05 | Crypto Volatility Sale: 30% OFF All Crypto Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-crypto-volatility-sale-30-off/) |
 | 2025-12-02 | Limited Offer: 3K Crypto Instant Account for $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-3k-crypto-instant-9-99-promo/) |
-| 2025-11-19 | ForTraders Black Friday 25% Off + BOGO | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/) |
+| 2025-11-19 | ForTraders Black Friday 25% Off + BOGO | 25% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-black-friday-2025-25-off-bogo/) |
 | 2025-11-13 | 20% OFF + BOGO on $100K Challenges (NASDAQ Celebration, 1,000 Spots) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-20-off-bogo-100k-challenges-nasdaq-celebration-1000-spots/) |
-| 2025-10-27 | Halloween Sale: Up to 30% OFF on Challenges & Master Accounts | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-up-to-30-off-challenges-master-accounts/) |
-| 2025-10-21 | Halloween Sale: Up to 30% OFF (Forex/Crypto/Futures) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-sale-up-to-30-off-forex-crypto-futures/) |
+| 2025-10-27 | Halloween Sale: Up to 30% OFF on Challenges & Master Accounts | 30% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-up-to-30-off-challenges-master-accounts/) |
+| 2025-10-21 | Halloween Sale: Up to 30% OFF (Forex/Crypto/Futures) | 30% off | Ended | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-sale-up-to-30-off-forex-crypto-futures/) |
 | 2025-10-08 | $3K Instant Master Account for $9.99 (MT5 Only, 1,000 Spots) | $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-3k-instant-master-account-for-9-99-mt5-only-1000-spots/) |
 | 2025-10-08 | 15% Off for Existing Customers (Checkout Coupon Required) | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-15-off-for-existing-customers-checkout-coupon-required/) |
 | 2025-10-08 | 20% Off for New Customers (Checkout Coupon Required) | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/fortraders-20-off-for-new-customers-checkout-coupon-required/) |
