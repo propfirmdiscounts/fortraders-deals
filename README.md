@@ -1,31 +1,43 @@
-# For Traders - Discount Codes & Deal History
+# For Traders Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-30, the verified For Traders discount code is **VGYCKXLTY9** — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/fortraders/
+- Code: VGYCKXLTY9
+- Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-30
+- Trustpilot: 4.1/5 (1815 reviews)
+- Activate: https://propfirmdiscount.com/go/fortraders
+- Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-**Verified exclusive discount code:** VGYCKXLTY9 (works any time; live rate always on prop firm page)
+## Current For Traders deal: Halloween $6K Forex Fast challenge for only $9.99
 
-Use discount code **VGYCKXLTY9** to get **15% off** on For Traders challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all For Traders evaluation accounts.
+- Published: 2026-10-30
+- Offer ends: Limited time
+- Offer: 79.6% off
+- Scope: Forex Fast, 1-Step, $6K Account, Metatrader 5
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
+
+## For Traders discount code FAQ
+
+**What is the For Traders discount code?**
+
+VGYCKXLTY9. It is verified by PropFirmDiscount.com and takes up to 15% off For Traders challenges and accounts.
+
+**Does the For Traders discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current For Traders deal?**
+
+**Halloween $6K Forex Fast challenge for only $9.99** — published 2026-10-30. Offer ends: Limited time. The offer is 79.6% off.
 
 ---
 
-## Latest Deal
-
-### For Traders - Halloween $6K Forex Fast challenge for only $9.99
-
-**Published:** 2026-10-30  
-**Offer ends:** Limited time  
-**Discount:** 79.6% off  
-**Scope:** Forex Fast, 1-Step, $6K Account, Metatrader 5  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **55**
 
@@ -96,19 +108,20 @@ Total deals tracked: **55**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **For Traders** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **For Traders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/fortraders/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/fortraders/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
