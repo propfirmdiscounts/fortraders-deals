@@ -19,7 +19,7 @@ tags:
 
 # For Traders Discount Code
 
-As of 2026-10-30, the verified For Traders discount code is **VGYCKXLTY9** — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-30, the verified For Traders discount code is VGYCKXLTY9 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: VGYCKXLTY9
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
