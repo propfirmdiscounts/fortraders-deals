@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: propfirmdiscount
+  HF_NAMESPACE: fortraders
   FIRM_SLUG: fortraders
   DEALSTORE_ID: 95
   FIRM_NAME: For Traders
