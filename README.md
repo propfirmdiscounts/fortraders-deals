@@ -50,7 +50,7 @@ Total deals tracked: **55**
 | 2026-10-26 | 25% Off Every Challenge This Halloween | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) |
 | 2026-10-15 | $99 Entry Fee For $50K Futures Fast Pro Challenge | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) |
 | 2026-10-15 | 50% Off Instant Master Account Purchases | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) |
-| 2026-10-05 | $6K Fast Crypto Entry Dropped to $9.99 | Only $9.99 | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) |
+| 2026-10-05 | $6K Fast Crypto Entry Dropped to $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) |
 | 2026-10-02 | $9.99 Fast Evaluation Account Reduction | 79% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) |
 | 2026-09-02 | 50% Off Prop Trading Expo Entry Cost | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-expo-ticket/) |
 | 2026-08-28 | Access a $6K Challenge for $9.99 (1,000 Accounts Only) | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-6k-challenge-discount/) |
