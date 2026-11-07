@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: fortraders-discount-codes
+  HF_NAMESPACE: fortraders
+  HF_REPO_NAME: fortraders-deals
   FIRM_SLUG: fortraders
   DEALSTORE_ID: 95
   FIRM_NAME: For Traders
