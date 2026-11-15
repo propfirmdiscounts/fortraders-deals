@@ -7,10 +7,11 @@ As of 2026-11, the verified For Traders discount code is VGYCKXLTY9 — 15% OFF,
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
 - Trustpilot: 4.1/5 (1844 reviews)
-- Activate: https://propfirmdiscount.com/go/fortraders
-- Firm page: https://propfirmdiscount.com/prop-firm/fortraders/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/fortraders-deals](https://github.com/propfirmdiscounts/fortraders-deals)
+- Activate: [https://propfirmdiscount.com/go/fortraders](https://propfirmdiscount.com/go/fortraders)
+- Firm page: [https://propfirmdiscount.com/prop-firm/fortraders/](https://propfirmdiscount.com/prop-firm/fortraders/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current For Traders deal: Halloween $6K Forex Fast challenge for only $9.99
 
@@ -20,7 +21,7 @@ As of 2026-11, the verified For Traders discount code is VGYCKXLTY9 — 15% OFF,
 - Event: Halloween
 - Scope: Forex Fast, 1-Step, $6K Account, Metatrader 5
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/
+- Deal page: [https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/)
 
 ## For Traders discount code FAQ
 
@@ -113,9 +114,9 @@ Total deals tracked: **55**
 
 This repository mirrors every deal **For Traders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/fortraders/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/fortraders/](https://propfirmdiscount.com/prop-firm/fortraders/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/fortraders-deals.json`
 
