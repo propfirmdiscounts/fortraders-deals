@@ -6,7 +6,7 @@ As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
-- Trustpilot: 4.1/5 (1844 reviews)
+- Trustpilot: [4.1/5 (1844 reviews)](https://www.trustpilot.com/review/fortraders.com)
 - GitHub repository: [For Traders Deals Repository](https://github.com/propfirmdiscounts/fortraders-deals)
 - Activate: [Activate For Traders Discount Code](https://propfirmdiscount.com/go/fortraders)
 - Firm page: [For Traders Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fortraders/)
@@ -49,8 +49,8 @@ Total deals tracked: **55**
 |---|---|---|---|---|---|
 | 2026-10-30 | For Traders: Halloween $6K Forex Fast challenge for only $9.99 | 79.6% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/) |
 | 2026-10-26 | For Traders: 25% Off Every Challenge This Halloween | 25% off | Limited time | Halloween | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-25-off-any-challenge/) |
-| 2026-10-15 | For Traders: $99 Entry Fee For $50K Futures Fast Pro Challenge | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) |
-| 2026-10-15 | For Traders: 50% Off Instant Master Account Purchases | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) |
+| 2026-10-15 | For Traders: $99 Entry Fee For $50K Futures Fast Pro Challenge | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-percent-off-50k-futures-pro/) |
+| 2026-10-15 | For Traders: 50% Off Instant Master Account Purchases | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-forex-instant-accounts/) |
 | 2026-10-05 | For Traders: $6K Fast Crypto Entry Dropped to $9.99 | Only $9.99 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-crypto-token2049/) |
 | 2026-10-02 | For Traders: $9.99 Fast Evaluation Account Reduction | 79% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-9-99-6k-fast-eval/) |
 | 2026-09-02 | For Traders: 50% Off Prop Trading Expo Entry Cost | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/fortraders/for-traders-50-off-expo-ticket/) |
