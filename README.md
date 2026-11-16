@@ -1,10 +1,10 @@
-# For Traders - Discount Codes & Deal History
+# For Traders Discount Code & Deal History
 
 As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15% OFF, which can be applied on the checkout page anytime. The newest is "Halloween $6K Forex Fast challenge for only $9.99".
 
 - Code: VGYCKXLTY9
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-10-30
 - Trustpilot: [4.1/5 (1844 reviews)](https://www.trustpilot.com/review/fortraders.com)
 - GitHub repository: [For Traders Deals Repository](https://github.com/propfirmdiscounts/fortraders-deals)
@@ -13,7 +13,7 @@ As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [For Traders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current For Traders deal: Halloween $6K Forex Fast challenge for only $9.99
+## Latest For Traders deal: Halloween $6K Forex Fast challenge for only $9.99
 
 - Published: 2026-10-30
 - Offer ends: Limited time
@@ -23,7 +23,7 @@ As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [For Traders Deal Page](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/)
 
-## For Traders discount code FAQ
+## For Traders Discount Code & Deals FAQ
 
 **What is the For Traders discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## For Traders Deal History
 
 Total deals tracked: **55**
 
@@ -110,7 +110,7 @@ Total deals tracked: **55**
 
 ---
 
-## About this repository
+## About the For Traders Deals Dataset
 
 This repository mirrors every deal **For Traders** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -118,7 +118,7 @@ This repository mirrors every deal **For Traders** has published on PropFirmDisc
 - Prop firm profile: [For Traders Profile](https://propfirmdiscount.com/prop-firm/fortraders/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/fortraders-deals.json`
+## For Traders Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -150,13 +150,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
