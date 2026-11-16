@@ -1,17 +1,17 @@
 # For Traders - Discount Codes & Deal History
 
-As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15% OFF, which can be applied on the checkout page anytime. The newest is "Halloween $6K Forex Fast challenge for only $9.99".
 
 - Code: VGYCKXLTY9
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-30
 - Trustpilot: 4.1/5 (1844 reviews)
-- GitHub repository: [https://github.com/propfirmdiscounts/fortraders-deals](https://github.com/propfirmdiscounts/fortraders-deals)
-- Activate: [https://propfirmdiscount.com/go/fortraders](https://propfirmdiscount.com/go/fortraders)
-- Firm page: [https://propfirmdiscount.com/prop-firm/fortraders/](https://propfirmdiscount.com/prop-firm/fortraders/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [For Traders Deals Repository](https://github.com/propfirmdiscounts/fortraders-deals)
+- Activate: [Activate For Traders Discount Code](https://propfirmdiscount.com/go/fortraders)
+- Firm page: [For Traders Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/fortraders/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [For Traders API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current For Traders deal: Halloween $6K Forex Fast challenge for only $9.99
 
@@ -21,7 +21,7 @@ As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15
 - Event: Halloween
 - Scope: Forex Fast, 1-Step, $6K Account, Metatrader 5
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/)
+- Deal page: [For Traders Deal Page](https://propfirmdiscount.com/deals/fortraders/for-traders-halloween-6k-forex-fast-9-99/)
 
 ## For Traders discount code FAQ
 
@@ -114,9 +114,9 @@ Total deals tracked: **55**
 
 This repository mirrors every deal **For Traders** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/fortraders/](https://propfirmdiscount.com/prop-firm/fortraders/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [For Traders Profile](https://propfirmdiscount.com/prop-firm/fortraders/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/fortraders-deals.json`
 
@@ -159,4 +159,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
