@@ -5,7 +5,7 @@ As of November 2026, the verified For Traders discount code is VGYCKXLTY9 — 15
 - Code: VGYCKXLTY9
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
-- Last deal published: 2026-10-30
+- Last deal published: 2026-11-13
 - Trustpilot: [4.1/5 (1852 reviews)](https://www.trustpilot.com/review/fortraders.com)
 - GitHub repository: [For Traders Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/fortraders-deals)
 - Activate: [Activate For Traders Discount Code](https://propfirmdiscount.com/go/fortraders)
