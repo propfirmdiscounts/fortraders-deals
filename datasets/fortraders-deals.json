@@ -1,5 +1,45 @@
 [
   {
+    "deal_id": 13282,
+    "title": "20% Off for New Customers",
+    "offer_type": "coupon",
+    "discount_value": "20%",
+    "scope": [
+      "Perps Challenges (New Customers Only)"
+    ],
+    "date_published": "2026-11-20",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-20",
+    "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-perps-20-off-new-customers/",
+    "prop_firm": "For Traders",
+    "prop_firm_slug": "fortraders",
+    "standing_code": "VGYCKXLTY9",
+    "standing_discount": "15%",
+    "activation_link": "https://propfirmdiscount.com/go/fortraders",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fortraders/"
+  },
+  {
+    "deal_id": 13308,
+    "title": "$6K Forex Fast for $9.99",
+    "offer_type": "coupon",
+    "discount_value": "$9.99",
+    "scope": [
+      "$6K Forex Fast (1-Step, Mt5)"
+    ],
+    "date_published": "2026-11-20",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-20",
+    "post_url": "https://propfirmdiscount.com/deals/fortraders/for-traders-6k-forex-fast-9-99/",
+    "prop_firm": "For Traders",
+    "prop_firm_slug": "fortraders",
+    "standing_code": "VGYCKXLTY9",
+    "standing_discount": "15%",
+    "activation_link": "https://propfirmdiscount.com/go/fortraders",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/fortraders/"
+  },
+  {
     "deal_id": 13281,
     "title": "Perps Challenges: 15% Off",
     "offer_type": "coupon",
